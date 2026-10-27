@@ -140,6 +140,7 @@ public import KAM.Measure.Slab
 public import KAM.Strip.Averages
 public import KAM.Strip.Cauchy
 public import KAM.Strip.Fourier
+public import KAM.Strip.FourierBasic
 public import KAM.Strip.FourierSeries
 public import KAM.Strip.HigherCauchy
 public import KAM.Strip.Regularity
